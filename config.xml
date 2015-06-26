@@ -2,8 +2,8 @@
 <widget id="com.miklagard.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
     <name>Miklagard</name>
-    <description>Latest from the Last Word on Football</description>
-    <author email="lendyl.gonsalves@" href="http://kwrk.in/html/miklagard_wp">Kodework</author>
+    <description>Miklagard Golf</description>
+    <author email="lendyl.gonsalves@" href="http://app.miklagardgolf.no.dedi2484.your-server.de/">Kodework</author>
 
     <preference name="phonegap-version" value="3.7.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
@@ -47,6 +47,6 @@
     <gap:splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
-    <content src="http://kwrk.in/html/miklagard_wp" />
+    <content src="http://app.miklagardgolf.no.dedi2484.your-server.de/" />
     <access origin="*" subdomains="true" />
 </widget>
