@@ -3,6 +3,7 @@
     
     <name>Miklagard</name>
     <description>Miklagard Golf</description>
+    <access origin="*" />
     <author email="lendyl.gonsalves@" href="http://app.miklagardgolf.no.dedi2484.your-server.de/">Kodework</author>
 
     <preference name="phonegap-version" value="3.7.0" />
