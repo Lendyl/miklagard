@@ -6,12 +6,7 @@
     <author email="lendyl.gonsalves@" href="http://app.miklagardgolf.no.dedi2484.your-server.de/">Kodework</author>
 
     <preference name="phonegap-version" value="3.7.0" />
-    <feature name="InAppBrowser">
-      <param name="android-package" value="org.apache.cordova.InAppBrowser" />
-    </feature>
-    <feature name="InAppBrowser">
-      <param name="ios-package" value="CDVInAppBrowser" />
-    </feature>
+
 
 
     <feature name="http://api.phonegap.com/1.0/device" />
@@ -36,7 +31,7 @@
     <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="com.simplec.plugins.localnotification" />
     <gap:plugin name="org.apache.cordova.inappbrowser" />
-    <gap:plugin name="org.li8.inappbrowser" version="0.1" />
+   
     
     
 	<icon src="icon.png" />
