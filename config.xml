@@ -58,5 +58,5 @@
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
     <content src="http://app.miklagardgolf.no.dedi2484.your-server.de/" />
-    <access origin="*" />
+    <access origin="*"  browserOnly="true"  />
 </widget>
